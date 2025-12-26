@@ -452,19 +452,13 @@ Contributions are welcome! Please follow these steps:
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License - see LICENSE file for details.
-
----
-
 ## 👨‍💻 Author
 
 **Your Name**
 
-- LinkedIn: [Your Profile](#)
-- Portfolio: [Your Website](#)
-- Email: your.email@example.com
+- LinkedIn: [https://www.linkedin.com/in/SATYAM-c/](#)
+- Portfolio: [https://www.satyamchaudhary.com.np/](#)
+- Email: nitantsatyam123@gmail.com
 
 ---
 
@@ -478,27 +472,7 @@ This project is licensed under the MIT License - see LICENSE file for details.
 
 ---
 
-## 📞 Support
-
-For issues or questions:
-
-- Open an issue in GitHub
-- Check documentation artifacts
-- Review code comments
-
----
-
 **⭐ If you find this project useful, please star the repository!**
-
----
-
-## 📊 Project Stats
-
-- **Lines of Code**: ~3,000+
-- **Components**: 8 React components
-- **API Endpoints**: 15+
-- **Development Time**: Built efficiently
-- **Test Coverage**: Manual testing implemented
 
 ---
 
